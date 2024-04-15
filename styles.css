@@ -1,0 +1,12 @@
+.col-sm {
+    padding:20px;
+    margin-top: 10%;
+    border-radius: 10px;
+    box-shadow: 0 8px 12px gray;
+    transition: transform 0.2s ease-in-out;
+}
+
+.col-sm:hover {
+    transform: translateY(-20px);
+}
+
